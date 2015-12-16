@@ -1,0 +1,6 @@
+framework module UGDAlertView {
+  umbrella header "UGDAlertView.h"
+
+  export *
+  module * { export * }
+}

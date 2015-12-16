@@ -1,0 +1,14 @@
+PODS:
+  - UGDAlertView (0.1.0)
+
+DEPENDENCIES:
+  - UGDAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  UGDAlertView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UGDAlertView: 2a233ebdf7ea95913e1f9d960a995c6c6ae033d9
+
+COCOAPODS: 0.38.2

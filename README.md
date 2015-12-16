@@ -22,7 +22,7 @@ pod "UGDAlertView"
 
 ## Author
 
-Vladimir Afanasyev, vladimir@ugdsoft.com
+Afinello
 
 ## License
 
