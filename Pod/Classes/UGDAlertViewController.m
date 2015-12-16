@@ -163,14 +163,14 @@
         self.onComplete(true);
     }
     
-    [self hide:YES];
+    [self hideAnimated:YES];
 }
 
 - (IBAction)onBtnNegative:(id)sender {
     if(self.onComplete){
         self.onComplete(false);
     }
-    [self hide:YES];
+    [self hideAnimated:YES];
 }
 
 - (void) updateViewConstraints
