@@ -26,6 +26,6 @@
 - (void) setMarginTop:(CGFloat)top left:(CGFloat)left bottom:(CGFloat)bottom right:(CGFloat)right;
 
 - (void) showInViewController:(UIViewController*)vc withCompletion:(UGDCompletionBlockWithResult)complete;
-- (void) hide:(BOOL)animated;
+- (void) hideAnimated:(BOOL)animated;
 
 @end

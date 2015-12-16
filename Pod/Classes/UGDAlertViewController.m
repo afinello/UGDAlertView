@@ -142,7 +142,7 @@
     [self removeFromParentViewController];
 }
 
-- (void) hide:(BOOL)animated
+- (void) hideAnimated:(BOOL)animated
 {
     if(animated){
         [UIView animateWithDuration:0.3f animations:^{
