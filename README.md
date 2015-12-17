@@ -2,7 +2,7 @@
 
 [![CI Status](http://img.shields.io/travis/afinello/UGDAlertView.svg?style=flat)](https://travis-ci.org/afinello/UGDAlertView)
 [![Version](https://img.shields.io/cocoapods/v/UGDAlertView.svg?style=flat)](http://cocoapods.org/pods/UGDAlertView)
-[![License](https://img.shields.io/cocoapods/l/UGDAlertView.svg?style=flat)](http://cocoapods.org/pods/UGDAlertView)
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg?style=flat)](http://cocoapods.org/pods/UGDAlertView)
 [![Platform](https://img.shields.io/cocoapods/p/UGDAlertView.svg?style=flat)](http://cocoapods.org/pods/UGDAlertView)
 
 ## Usage
